@@ -82,7 +82,8 @@ DATABASES = {
         'NAME': 'kertaskerja',
         'USER': 'root',
         'PASSWORD': 'Jafar#89',
-        'HOST': '202.78.200.120',
+        #'HOST': '202.78.200.120',
+        'HOST': '127.0.0.1',
     }
 }
 
